@@ -3,6 +3,7 @@
 
 Submission by: **Sayana Suthaharan**  
 
+## Part 1
 Top-5 List of Articles 
 - [“More And More Severe Storms”: When Can We Declare This Hypothesis To Be Definitively Falsified?](https://wattsupwiththat.com/2026/09/30/more-and-more-severe-storms-when-can-we-declare-this-hypothesis-to-be-definitively-falsified/)
   - Claim: A rise in temperature has little to nothing to do with hurricane activity and is a bad predictor.
@@ -44,3 +45,23 @@ Top-5 List of Articles
   width="700">
 </p>
 
+## Part 2
+The #1 claim from these articles suggest that increasing temperature and climate change as a whole have nothing to do with increasing natural disasters. In fact, the sources of these articles claim that there is not much change with respect to natural disasters in their entirety. This is seen from a September 30th blog confidently stating that the hypothesis of increasing storm activity should be falsified, by claiming the consequences of climate change. This article in particular grabbed my attention, as it starts off by claiming that scientists, when talking about a "mantra" focusing on the anthropogenic effects of climate change, typically attribute that to every catastrophic event that happens. Therefore, the paper claims that hurricanes that were once prevalent in the North Atlantic sea cannot be excused by climate change effects, as there has not been a significant number this year (Menton 2026). 
+
+This claim sticks out to me, as the events that are happening now should be understood through consequential and collateral damage from the anthropogenic actions that humans have taken through decades. However, this paper looks at these events as stand-alone topics. 
+
+In addition, after researching, the author of this blog, Francis Menton, is a retired lawyer and creator of the Manhattan Contrarian blog that disputes climate change claims (National Association of Scholars 2025). According to the National Association of Scholars, they believe that Francis Menton holds expertise in the subject of climate change, as his background in Law would allow Menton to be knowledgeable in climate lawsuits that have happened (National Association of Scholars 2025a). Through this background information, the target audience is like-minded individuals who are either unaware of the scientific background or are ignorant of it, regardless of its existence. 
+
+The accuracy of this blog can be rebutted using the evidence of the climate pattern traced by El Niño, as previously discussed in class. According to typical ocean currents, the surface gyres (system of rotating ocean surface currents) flow in a clockwise direction, where the equatorial wind moves the warm water west (NASA 2024). Whereas now, during the El Niño climate pattern, weaker winds are moving warm water east and causing a disruption along the west coasts of North and South Americas. For example, typically drier regions of Peru, Chile and Mexico reported more rain and snow, whereas wetter regions of the Brazilian Amazon have significant month-long droughts. 
+
+Connecting back to the article claiming falsified data, the stated claim that the North Atlantic has not had any earthquakes for the first time in decades is correct. In contrast, the reasoning for this event is more than what was originally expected. Frances Menton states the information in the blog as if climate change is a linearly progressing event. However, as with all science, results are subject to change, with respect to their context. In this example, although the weather patterns for hurricanes are not as intense as first expected, the explanation should not therefore be ignored, but instead further investigated, as effects such as El Niño may be the cause.
+
+References
+
+Menton, Francis. 2026. “Manhattan Contrarian.” Manhattan Contrarian, October 3. https://www.manhattancontrarian.com.
+
+NASA. 2024. “El Niño - NASA Science.” Nasa.Gov, October 7. https://science.nasa.gov/earth/explore/el-nino/.
+
+National Association of Scholars. 2025a. Humility, the Scientific Method and Climate Change. Francis Menton, the Manhattan Contrarian. YouTube. Video. https://www.youtube.com/watch?v=ymAqkYrXyCU.National Association of Scholars. 2025b. “VIDEO: Humility, the Scientific Method, and Climate Change.” 
+
+National Association of Scholars, February 28. https://www.nas.org/media/video-humility-the-scientific-method-and-climate-change/.
